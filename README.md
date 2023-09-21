@@ -1,4 +1,4 @@
-# Application of Natural Language Processing for Automatic Generation of English Cloze Passages
+# 自然語言處理應用於自動生成英文克漏字
 使用自然語言處理模型將生成克漏字測驗的過程自動化，期望提升克漏字測驗的出題速度同時兼顧品質。
 
 # demo
